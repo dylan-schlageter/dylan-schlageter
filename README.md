@@ -1,4 +1,4 @@
-<h1>Welcome to my Github, I'm Dylan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Welcome to my Github, I'm Dylan! <br/><a href="https://github.com/dylan-schlageter">Programmer</a>, <a href="https://www.linkedin.com/in/dylan-schlageter/">BS Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -21,7 +21,7 @@
 
 <h2> 🤳 Let's connect:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DylanSchlageter | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
