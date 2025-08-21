@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
  <b>Data Structures and Algorithms Practice</b> <br>
         - [Practicing DS & Algos in Python](https://github.com/dylan-schlageter/Algorithms-Practice) <br>
-<b>Full Stack Lazer Tag App (Python, PostgreSQL, UDP Signal Transmission):</b> <br>
+<b>Fully Functional Lazer Tag Software (Python, PostgreSQL, UDP Signal Transmission):</b> <br>
         - [Lazer Tag Software](https://github.com/dylan-schlageter/Lazer-Tag-App/blob/main/README.md) <br>
 <b>Language Learning Web App (JavaScript, ChatGPT API, HTML):</b> <br>
         - [Language Learner](https://github.com/dylan-schlageter/Language-Learner/blob/main/README.md) <br>
