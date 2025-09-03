@@ -1,7 +1,7 @@
 <h1>Welcome to my Github, I'm Dylan! <br/><a href="https://github.com/dylan-schlageter">Programmer</a>, <a href="https://www.linkedin.com/in/dylan-schlageter/">BS Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>Adaptive Workout Planner based on user's progress - Full Stack (MongoDB, Express.js, React, Node.js):</b> <br>
+<b>Adaptive Workout Planner that adjusts to user progress - Full Stack (MongoDB, Express.js, React, Node.js):</b> <br>
         - [Workout Progressor]() <br>
 <b>Fully Functional Lazer Tag Software (Python, PostgreSQL, UDP Signal Transmission):</b> <br>
         - [Lazer Tag Software](https://github.com/dylan-schlageter/Lazer-Tag-App/blob/main/README.md) <br>
