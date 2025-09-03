@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Adaptive Workout Planner that adjusts to user progress - Full Stack (MongoDB, Express.js, React, Node.js):</b> <br>
-        - [Workout Progressor]() <br>
+        - [Workout Progressor](https://github.com/dylan-schlageter/Adaptive-Workout-Planner) <br>
 <b>Fully Functional Lazer Tag Software (Python, PostgreSQL, UDP Signal Transmission):</b> <br>
         - [Lazer Tag Software](https://github.com/dylan-schlageter/Lazer-Tag-App/blob/main/README.md) <br>
 <b>Language Learning Web App (JavaScript, ChatGPT API, HTML, CSS):</b> <br>
