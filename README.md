@@ -19,7 +19,7 @@
 
 
 
- [My LinkedIn](https://www.linkedin.com/in/dylan-schlageter/)]
+[(https://www.linkedin.com/in/dylan-schlageter/)]
 
 
 
