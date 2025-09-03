@@ -5,7 +5,7 @@
         - [Workout Progressor]() <br>
 <b>Fully Functional Lazer Tag Software (Python, PostgreSQL, UDP Signal Transmission):</b> <br>
         - [Lazer Tag Software](https://github.com/dylan-schlageter/Lazer-Tag-App/blob/main/README.md) <br>
-<b>Language Learning Web App (JavaScript, ChatGPT API, HTML):</b> <br>
+<b>Language Learning Web App (JavaScript, ChatGPT API, HTML, CSS):</b> <br>
         - [Language Learner](https://github.com/dylan-schlageter/Language-Learner/blob/main/README.md) <br>
 <b>Python Stock Trading Algorithm That Outperforms S&P500:</b> <br>
         - [Trading Algo](https://github.com/dylan-schlageter/Trading-Algorithm/blob/main/README.md) <br>
