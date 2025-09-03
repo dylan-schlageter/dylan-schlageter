@@ -15,11 +15,11 @@
 
 <h2> 🤳 Let's connect:</h2>
 
-[<img align="left" alt="DylanSchlageter | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DylanSchlageter | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/dylan-schlageter/)]
 
 
 
-[(https://www.linkedin.com/in/dylan-schlageter/)]
+
 
 
 
