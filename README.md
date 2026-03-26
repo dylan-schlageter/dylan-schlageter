@@ -9,8 +9,6 @@
         - [Language Learner](https://github.com/dylan-schlageter/Language-Learner/blob/main/README.md) <br>
 <b>Python Stock Trading Algorithm That Outperforms S&P500:</b> <br>
         - [Trading Algo](https://github.com/dylan-schlageter/Trading-Algorithm/blob/main/README.md) <br>
-<b>Data Structures and Algorithms Practice</b> <br>
-        - [Practicing DS & Algos in Python](https://github.com/dylan-schlageter/Algorithms-Practice) <br>
 
 
 <h2> 🤳 Let's connect:</h2>
