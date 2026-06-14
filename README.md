@@ -1,4 +1,4 @@
-<h1>Welcome to my Github, I'm Dylan! <br/><a href="https://github.com/dylan-schlageter">Full Stack Web Developer</a>, <a href="https://www.linkedin.com/in/dylan-schlageter/">BS Computer Science Student</a></h1>
+<h1>Welcome to my Github, I'm Dylan! <br/><a href="https://github.com/dylan-schlageter">Full Stack Web Developer</a>, <a href="https://www.linkedin.com/in/dylan-schlageter/">BS Computer Science Graduate</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Ecommerce / Course Learning website - Full Stack (MongoDB, Express.js, React, Node.js):</b> <br>
